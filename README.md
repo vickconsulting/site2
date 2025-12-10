@@ -1,4 +1,4 @@
-Vick-Consulting/
+/
    index.html
    styles.css
    images/
