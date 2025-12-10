@@ -1,4 +1,3 @@
-/
    index.html
    styles.css
    images/
