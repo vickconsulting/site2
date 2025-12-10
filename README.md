@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Integrated Safety & Leadership Solutions | People. Preparedness. Protection.</title>
+  <title>Vick Consulting LLC | People. Preparedness. Protection.</title>
   <meta name="description" content="AHA CPR/AED training, EHS consulting, HR risk management, and leadership development in Indianapolis. Bridging compliance and culture to build resilient organizations." />
 
   <!-- Tailwind CDN -->
